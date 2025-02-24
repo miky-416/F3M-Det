@@ -45,5 +45,5 @@ To evaluate our `F3M-Det` on DVTOD, run:
 python test.py <config-file> <checkpoint>
 ```
 
-**Note**: You can download pretrained files from [google drive](https://drive.google.com/drive/folders/1U63VX8pZrV--8ks_VHXeB37Kgf447vN8?usp=drive_link).
+**Note**: You can download checkpoint files from [google drive](https://drive.google.com/drive/folders/1U63VX8pZrV--8ks_VHXeB37Kgf447vN8?usp=drive_link).
 
