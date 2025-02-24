@@ -29,6 +29,9 @@ cd ../..
 ```
 
 - Install other requirements:
+```bash
+pip install -r requirements.txt
+```
 
 ### Data Preparation
 
