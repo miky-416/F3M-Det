@@ -7,7 +7,7 @@ Implementation for the paper "Exploiting Cross-Modal Feature Enhancement, Alignm
 - Create a conda virtual environment and activate it:
 
 ```bash
-conda create -n f3m python=3.7 -y
+conda create -n f3m python=3.7
 conda activate f3m
 ```
 
