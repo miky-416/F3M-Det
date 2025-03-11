@@ -24,7 +24,7 @@ pip install torch==1.10.1+cu111 torchvision==0.11.2+cu111 torchaudio==0.10.1 -f 
 ```bash
 git clone https://github.com/miky-416/F3M-Det
 cd models/Deformable_Convolution_V2/
-pip sh make.sh
+sh make.sh
 cd ../..
 ```
 
